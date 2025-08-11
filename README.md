@@ -1,7 +1,5 @@
 # Awesome ECP
 
-## Key Links
-
 - [Interface.social](https://interface.social)
   - A mobile app for ethereum with posts on ECP
 - [Town](https://t.me/+vxh3qr_ivnczMTBk)
