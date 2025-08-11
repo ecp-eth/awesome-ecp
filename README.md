@@ -3,7 +3,7 @@
 ## Key Links
 
 - [Interface.social](https://interface.social)
-  - A decentralized social platform built on ECP
+  - A mobile app for ethereum with Takes built on ECP
 - [Town](https://t.me/+vxh3qr_ivnczMTBk)
   - An open source iOS app for ECP
 - [Paper](https://paper.ink)
