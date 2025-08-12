@@ -2,7 +2,7 @@
 
 - [Interface.social](https://interface.social)
   - A mobile app for ethereum with posts on ECP
-- [Town](https://t.me/+vxh3qr_ivnczMTBk)
+- [Town](https://t.me/+BpHx8Cm1I6M3OTc0)
   - An open source iOS app for ECP
 - [Paper](https://paper.ink)
   - A web based client for ECP
