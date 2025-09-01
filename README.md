@@ -14,7 +14,8 @@
   - View all comments across the platform in real-time
 - [Markdown Blog Posts Viewer](https://ecp-eth.github.io/md/)
   - A tool for viewing markdown-based blog posts on ECP
-
+- [Share.ethcomments.xyz](https://github.com/ecp-eth/share.ethcomments.xyz)
+  - A tool for creating ECP posts
 
 ---
 
